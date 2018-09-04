@@ -1,0 +1,2 @@
+# MiniGameDestroy
+TXMiniGameDestroy
